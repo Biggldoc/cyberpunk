@@ -221,7 +221,7 @@ ul.skills {
     margin: 2px;
     padding: 5px 10px;
 
-    cursor: default;
+    cursor: pointer;
 
     color: white;
     border-radius: 6px;
