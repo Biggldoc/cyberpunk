@@ -318,6 +318,7 @@ footer .copyright {
 
 @media (max-width: 768px) {
     .main-nav {
+      font-size: 24px;
       position: relative;
     }
     .nav .name {
