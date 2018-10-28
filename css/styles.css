@@ -317,6 +317,9 @@ footer .copyright {
 /*STYLES FOR SMALL SCREENS*/
 
 @media (max-width: 768px) {
+    .main-nav {
+      position: relative;
+    }
     .nav .name {
         margin-right: 0;
     }
