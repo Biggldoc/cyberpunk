@@ -334,4 +334,7 @@ footer .copyright {
     header {
         padding-top: 5em;
     }
+    header .profile-image:hover {
+      transform: scale(1.1) rotate(360deg);
+    }
 }
